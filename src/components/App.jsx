@@ -36,4 +36,6 @@ function Answer(props) {
   return <div>{props.answer}</div>;
 }
 
+function CheckAnswer() {}
+
 export default App;
